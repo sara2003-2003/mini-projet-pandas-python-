@@ -1,0 +1,11 @@
+Date,Produit,Catégorie,Quantité,Prix Unitaire (€),Vendeur,Région
+2024-01-01,Clavier,Informatique,5,29.99,Alice,Île-de-France
+2024-01-02,Souris,Informatique,10,19.99,Bob,Occitanie
+2024-01-03,Écran,Informatique,2,149.99,Claire,Auvergne-Rhône-Alpes
+2024-01-04,Chaise,Bureau,3,89.9,David,Nouvelle-Aquitaine
+2024-01-05,Bureau,Bureau,1,199.99,Eva,Bretagne
+2024-01-06,Clavier,Informatique,7,29.99,Alice,Île-de-France
+2024-01-07,Souris,Informatique,4,19.99,Bob,Occitanie
+2024-01-08,Bureau,Bureau,2,199.99,Eva,Bretagne
+2024-01-09,Écran,Informatique,1,149.99,Claire,Île-de-France
+2024-01-10,Chaise,Bureau,5,89.9,David,Auvergne-Rhône-Alpes
